@@ -86,10 +86,3 @@ streamlit run app.py
 - **Retrieval:** Uses ChromaDB for vector querying and a Hybrid Ranking algorithm (combining semantic score and popularity).
 
 ---
-
-## Team Members (Group 03)
-
-1. Sần Dịch Anh - 21120411: Crawl Data, Data Cleaning, questioning.
-2. Nguyễn Văn Hậu - 21120449: EDA, built Content-based Filtering model.
-3. Nguyễn Trung Dũng - 21120228: EDA, built RAG Model + Semantic Search, ChromaDB.
-4. Ngô Gia Long - 20120525: Streamlit UI Code, Presentation Slides.
